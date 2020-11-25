@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+	<className>com.gd.creational.abstract_factory.factory.HairFactory</className>
+</config>
